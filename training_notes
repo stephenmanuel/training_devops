@@ -1,6 +1,10 @@
 This is the file to have important notes:
 
 Git:
+git status -s 
+left first: staging status
+second left:working directory
+thired left: 
 Github:
 terraform:
 
